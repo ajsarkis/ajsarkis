@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ajsarkis
-- 👀 I’m interested in learning full stack development with Javascript
-- 🌱 I’m currently learning through The Odin Project, plus Discord, Udemy, YouTube
-- 💞️ I’m looking to collaborate on cool projects
+- Hi, I’m Armen
+- I’m learning fullstack JS development
+- Currently learning through The Odin Project, Freecodecamp, Discord, YouTube
+- Looking to collaborate on projects. One area I enjoy is the future of work.  
 - Reach me on Discord at Cocos#4498
 
 <!---
